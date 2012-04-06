@@ -4,4 +4,5 @@
 This is a test.
 """
 
-print 'hello'
+name='beverly'
+print 'hello %s'(name)
